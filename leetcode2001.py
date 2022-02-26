@@ -24,11 +24,11 @@ class Solution:
                 continue
             point.add((r, c))
             rows[r] = rows.get(r, 0) + 1
-            columns[c] = rows.get(c, 0) + 1
+            columns[c] = columns.get(c, 0) + 1
             diagonal[r-c] = diagonal.get(r-c, 0) + 1
             antiDiagonal[r+c] = antiDiagonal.get(r+c, 0) + 1
         for r, c in queries:
-            if rows[r] or columns[c] or diagonal[r-c] or antiDiagonal[r+c]:
+            if rows.get(r, 0) or columns.get(c, 0) or diagonal.get(r-c, 0) or antiDiagonal.get(r+c, 0):
                 res.append(1)
             for i in range(r-1, r+2):
                 for j in range(c-1, c+2):
@@ -39,5 +39,6 @@ class Solution:
                     columns[j] -= 1
                     diagonal[i - j] -= 1
                     antiDiagonal[i + j] -= 1
+        return res
 
 
