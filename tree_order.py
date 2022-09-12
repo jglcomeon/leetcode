@@ -35,7 +35,7 @@ def InOrder(root):
                 temp = cur.right
 
 
-def AfterOrder(root):
+def postOrder(root):
     if not root:
         return root
     stack1 = [root]
@@ -66,4 +66,4 @@ if __name__ == '__main__':
     print("=======InOrder========")
     InOrder(root)
     print("=======AfterOrder========")
-    AfterOrder(root)
+    postOrder(root)

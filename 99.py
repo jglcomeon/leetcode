@@ -4,6 +4,8 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
+
+
 class Solution:
     def recoverTree(self, root) -> None:
         """
@@ -40,6 +42,7 @@ class Solution:
         temp.append(root)
         self.DFS(root.right, temp)
 
+
 if __name__ == '__main__':
     root = TreeNode(3)
     root.left = TreeNode(1)
@@ -47,3 +50,4 @@ if __name__ == '__main__':
     root.right.left = TreeNode(2)
     s = Solution()
     s.recoverTree(root)
+

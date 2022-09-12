@@ -9,7 +9,7 @@ def fast_sort(left, right, nums):
         if r > l:
             nums[l] = nums[r]
             l += 1
-        while nums[l] < temp and r >l:
+        while nums[l] < temp and r > l:
             l += 1
         if r > l:
             nums[r] = nums[l]
@@ -22,6 +22,6 @@ def fast_sort(left, right, nums):
 
 
 if __name__ == '__main__':
-    nums = [5,4,1,7,9,-10]
+    nums = [5, 4, 1, 7, 9, -10]
     fast_sort(0, 5, nums)
     print(nums)
