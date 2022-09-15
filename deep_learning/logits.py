@@ -38,5 +38,5 @@ class Logits:
             w -= dw * learn_rate
             b -= learn_rate * db
             loss_list.append(loss)
-        params = {'w': w, 'b':b}
+        params = {'w': w, 'b': b}
         return params

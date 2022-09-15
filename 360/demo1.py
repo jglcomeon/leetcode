@@ -2,7 +2,7 @@
 def demo1(nums, options):
     n = len(nums)
     for t, x in options:
-        if t == 0:
+        if t == 1:
             if x == 1:
                 continue
             if x == n:
@@ -25,10 +25,10 @@ def demo1(nums, options):
 
 
 if __name__ == '__main__':
-    N, M = map(int, input().split(' '))
-    nums = list(map(int, input().split(' ')))
+    N, M = map(int, input().strip().split(' '))
+    nums = list(map(int, input().strip().split(' ')))
     options = []
     for i in range(M):
-        t, x = map(int, input().split(' '))
+        t, x = map(int, input().strip().split(' '))
         options.append((t, x))
     demo1(nums, options)
