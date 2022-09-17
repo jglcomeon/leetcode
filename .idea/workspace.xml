@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9acc8ae5-0d19-4957-ba67-20f81c4c7b86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/360/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/360/demo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/647.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/647.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/762.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/762.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/99.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/99.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bpe.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep_learning/bpe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_learning/logits.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep_learning/logits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode5978.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetCode5978.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode10.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode1059.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode1059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode110.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode110.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode1135.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode1135.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode1219.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode1219.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode126.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode126.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode127.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode127.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode130.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode130.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode1447.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode1447.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode2001.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode2001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode213.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode213.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode227.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode227.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode51.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode51.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode547.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode547.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode713.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodes/leetcode713.py" afterDir="false" />
+    <list default="true" id="9acc8ae5-0d19-4957-ba67-20f81c4c7b86" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +48,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -86,7 +65,7 @@
       <recent name="$PROJECT_DIR$/360" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo1 (2)">
+  <component name="RunManager" selected="Python.demo1">
     <configuration name="647" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,28 +88,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xiaomi" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xiaomi/demo1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,12 +96,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baidu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/didi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu/demo1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/didi/demo1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo2 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,12 +118,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jinjishijie" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/didi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jinjishijie/demo2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/didi/demo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,12 +140,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shenxinfu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/antgroup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shenxinfu/demo3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/antgroup/demo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dropout" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,12 +162,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/antgroup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_learning/dropout.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/antgroup/demo3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/antgroup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/antgroup/demo33.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,19 +200,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.647" />
-      <item itemvalue="Python.demo1 (2)" />
       <item itemvalue="Python.demo1" />
-      <item itemvalue="Python.dropout" />
-      <item itemvalue="Python.demo2 (2)" />
-      <item itemvalue="Python.demo3" />
+      <item itemvalue="Python.demo2 (1)" />
+      <item itemvalue="Python.demo2" />
+      <item itemvalue="Python.demo3 (1)" />
+      <item itemvalue="Python.demo33" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo1 (2)" />
-        <item itemvalue="Python.dropout" />
         <item itemvalue="Python.demo1" />
-        <item itemvalue="Python.demo3" />
-        <item itemvalue="Python.demo2 (2)" />
+        <item itemvalue="Python.demo2 (1)" />
+        <item itemvalue="Python.demo33" />
+        <item itemvalue="Python.demo2" />
+        <item itemvalue="Python.demo3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +272,10 @@
       <workItem from="1662995433005" duration="5000" />
       <workItem from="1662995603286" duration="350000" />
       <workItem from="1662995960284" duration="8374000" />
-      <workItem from="1663151261314" duration="3870000" />
+      <workItem from="1663151261314" duration="5507000" />
+      <workItem from="1663233371027" duration="127000" />
+      <workItem from="1663233504433" duration="10205000" />
+      <workItem from="1663397693002" duration="6774000" />
     </task>
     <servers />
   </component>
@@ -514,49 +496,35 @@
           <line>5</line>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/antgroup/demo3.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1662036475046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shenxinfu" />
     <SUITE FILE_PATH="coverage/leetcode$leetcode1135.coverage" NAME="leetcode1135 Coverage Results" MODIFIED="1649585070431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$762.coverage" NAME="762 Coverage Results" MODIFIED="1649163866589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1650806932563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tencent" />
     <SUITE FILE_PATH="coverage/leetcode$leetcode713.coverage" NAME="leetcode713 Coverage Results" MODIFIED="1651797331903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1651145609043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiecheng" />
     <SUITE FILE_PATH="coverage/leetcode$al_test2.coverage" NAME="al_test2 Coverage Results" MODIFIED="1648173921934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1650803151241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tencent" />
     <SUITE FILE_PATH="coverage/leetcode$demo2__2_.coverage" NAME="demo2 (2) Coverage Results" MODIFIED="1662212301542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jinjishijie" />
-    <SUITE FILE_PATH="coverage/leetcode$demo1__2_.coverage" NAME="demo1 (2) Coverage Results" MODIFIED="1663156002572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiaomi" />
-    <SUITE FILE_PATH="coverage/leetcode$leetcode51.coverage" NAME="leetcode51 Coverage Results" MODIFIED="1646454235731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$pdd_test2.coverage" NAME="pdd_test2 Coverage Results" MODIFIED="1647782850925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$demo3__1_.coverage" NAME="demo3 (1) Coverage Results" MODIFIED="1663243566322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/antgroup" />
     <SUITE FILE_PATH="coverage/leetcode$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1662715324667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/360" />
-    <SUITE FILE_PATH="coverage/leetcode$tree_order.coverage" NAME="tree_order Coverage Results" MODIFIED="1639841485258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$huawei_test1.coverage" NAME="huawei_test1 Coverage Results" MODIFIED="1649244522085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1651148664070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiecheng" />
-    <SUITE FILE_PATH="coverage/leetcode$main.coverage" NAME="main Coverage Results" MODIFIED="1638807151844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$te1.coverage" NAME="te1 Coverage Results" MODIFIED="1661600680534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$h_test.coverage" NAME="h_test Coverage Results" MODIFIED="1660654428539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$demo2__1_.coverage" NAME="demo2 (1) Coverage Results" MODIFIED="1662111728918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oppo" />
     <SUITE FILE_PATH="coverage/leetcode$dropout.coverage" NAME="dropout Coverage Results" MODIFIED="1663079770565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deep_learning" />
     <SUITE FILE_PATH="coverage/leetcode$pre_in_post.coverage" NAME="pre_in_post Coverage Results" MODIFIED="1661702104103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$al_test0.coverage" NAME="al_test0 Coverage Results" MODIFIED="1649332135186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
-    <SUITE FILE_PATH="coverage/leetcode$a_N.coverage" NAME="a_N Coverage Results" MODIFIED="1645790984421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1663070422835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu" />
     <SUITE FILE_PATH="coverage/leetcode$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1651147242083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiecheng" />
     <SUITE FILE_PATH="coverage/leetcode$leetcode1059.coverage" NAME="leetcode1059 Coverage Results" MODIFIED="1649581806646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$leetcode213.coverage" NAME="leetcode213 Coverage Results" MODIFIED="1645848170983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$res.coverage" NAME="res Coverage Results" MODIFIED="1652254498342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$leetcode127.coverage" NAME="leetcode127 Coverage Results" MODIFIED="1649295149712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1650804668994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tencent" />
-    <SUITE FILE_PATH="coverage/leetcode$360.coverage" NAME="360 Coverage Results" MODIFIED="1662985922109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/360" />
-    <SUITE FILE_PATH="coverage/leetcode$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1662035140358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shenxinfu" />
-    <SUITE FILE_PATH="coverage/leetcode$al_test3.coverage" NAME="al_test3 Coverage Results" MODIFIED="1648047274167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
-    <SUITE FILE_PATH="coverage/leetcode$leetcode130.coverage" NAME="leetcode130 Coverage Results" MODIFIED="1646534367270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1663244187331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/antgroup" />
     <SUITE FILE_PATH="coverage/leetcode$sort.coverage" NAME="sort Coverage Results" MODIFIED="1646668886565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$huawei_test2.coverage" NAME="huawei_test2 Coverage Results" MODIFIED="1649247799678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$bpe.coverage" NAME="bpe Coverage Results" MODIFIED="1649904917331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$al_test4.coverage" NAME="al_test4 Coverage Results" MODIFIED="1648656295873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/leetcode$wordCount.coverage" NAME="wordCount Coverage Results" MODIFIED="1641698416740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$al_test1.coverage" NAME="al_test1 Coverage Results" MODIFIED="1647877952110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1648191873196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -564,7 +532,28 @@
     <SUITE FILE_PATH="coverage/leetcode$checkValid.coverage" NAME="checkValid Coverage Results" MODIFIED="1641696617236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$pdd_test3.coverage" NAME="pdd_test3 Coverage Results" MODIFIED="1647780604509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$leetcode1219.coverage" NAME="leetcode1219 Coverage Results" MODIFIED="1644044723238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$99.coverage" NAME="99 Coverage Results" MODIFIED="1640103721529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$leetcode126.coverage" NAME="leetcode126 Coverage Results" MODIFIED="1649240920936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$762.coverage" NAME="762 Coverage Results" MODIFIED="1649163866589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1650806932563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tencent" />
+    <SUITE FILE_PATH="coverage/leetcode$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1650803151241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tencent" />
+    <SUITE FILE_PATH="coverage/leetcode$demo1__2_.coverage" NAME="demo1 (2) Coverage Results" MODIFIED="1663156002572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiaomi" />
+    <SUITE FILE_PATH="coverage/leetcode$leetcode51.coverage" NAME="leetcode51 Coverage Results" MODIFIED="1646454235731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$pdd_test2.coverage" NAME="pdd_test2 Coverage Results" MODIFIED="1647782850925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$tree_order.coverage" NAME="tree_order Coverage Results" MODIFIED="1639841485258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1651148664070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiecheng" />
+    <SUITE FILE_PATH="coverage/leetcode$main.coverage" NAME="main Coverage Results" MODIFIED="1638807151844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$te1.coverage" NAME="te1 Coverage Results" MODIFIED="1661600680534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$demo2__1_.coverage" NAME="demo2 (1) Coverage Results" MODIFIED="1663401848195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/didi" />
+    <SUITE FILE_PATH="coverage/leetcode$al_test0.coverage" NAME="al_test0 Coverage Results" MODIFIED="1649332135186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/leetcode$a_N.coverage" NAME="a_N Coverage Results" MODIFIED="1645790984421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1663405833453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/didi" />
+    <SUITE FILE_PATH="coverage/leetcode$leetcode213.coverage" NAME="leetcode213 Coverage Results" MODIFIED="1645848170983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$res.coverage" NAME="res Coverage Results" MODIFIED="1652254498342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$360.coverage" NAME="360 Coverage Results" MODIFIED="1662985922109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/360" />
+    <SUITE FILE_PATH="coverage/leetcode$al_test3.coverage" NAME="al_test3 Coverage Results" MODIFIED="1648047274167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/leetcode$leetcode130.coverage" NAME="leetcode130 Coverage Results" MODIFIED="1646534367270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$al_test4.coverage" NAME="al_test4 Coverage Results" MODIFIED="1648656295873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/leetcode$demo33.coverage" NAME="demo33 Coverage Results" MODIFIED="1663313128031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/antgroup" />
+    <SUITE FILE_PATH="coverage/leetcode$99.coverage" NAME="99 Coverage Results" MODIFIED="1640103721529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
