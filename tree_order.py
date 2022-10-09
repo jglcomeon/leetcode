@@ -20,6 +20,7 @@ def PreOrder(root):
 
 
 def InOrder(root):
+    
     if not root:
         return
     stack = []
